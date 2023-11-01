@@ -1,0 +1,25 @@
+SORU:
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+CEVAP:
+
+1. Adım: İlk eleman olan 7 kök düğüm olur.
+
+2. Adım: 5, 7'nin soluna gider.
+
+3. Adım: 1, 5'in soluna gider.
+
+4. Adım: 8, 7'nin sağına gider.
+
+5. Adım: 3, 5'in sağına gider.
+
+6. Adım: 6, 3'ün sağına gider.
+
+7. Adım: 0, 1'in soluna gider.
+
+8. Adım: 9, 8'in sağına gider.
+
+9. Adım: 4, 3'ün soluna gider.
+
+10. Adım: 2, 4'ün soluna gider.
